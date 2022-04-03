@@ -1,0 +1,56 @@
+.navigation {
+  width: 100%;
+  padding: 1rem 2rem;
+  background-color: #fcfcfc;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 5px 0px,
+    rgba(0, 0, 0, 0.1) 0px 0px 1px 0px;
+}
+
+#brand-logo {
+  font-weight: 600;
+  font-size: 26px;
+  font-family: "Poppins", sans-serif;
+  color: #ee2f30;
+}
+
+.btn-Enquiry {
+  border-radius: 5px;
+  padding: 8px 20px;
+  color: #ffffff;
+  background-color: #ee2f30;
+  font-size: 16px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+}
+
+.navigation .navbar-nav .nav-link {
+  font-size: 16px;
+  font-weight: 500;
+  font-family: "Poppins", sans-serif;
+  color: #000000;
+  padding-right: 10px;
+}
+
+.navigation .navbar-nav .nav-link:hover {
+  color: #ee2f30;
+}
+
+@media only screen and (min-device-width: 320px) and (-webkit-min-device-pixel-ratio: 2) {
+  #brand-logo {
+    font-size: 22px;
+  }
+}
+@media only screen and (min-device-width: 768px) and (-webkit-min-device-pixel-ratio: 2) {
+}
+
+/* // Large devices (desktops, 992px and up) */
+@media only screen and (min-device-width: 992px) and (-webkit-min-device-pixel-ratio: 2) {
+}
+
+/* // X-Large devices (large desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) and (-webkit-min-device-pixel-ratio: 2) {
+}
+
+/* // XX-Large devices (larger desktops, 1400px and up) */
+@media only screen and (min-width: 1400px) and (-webkit-min-device-pixel-ratio: 2) {
+}

@@ -1,0 +1,151 @@
+.contactus_header {
+  padding: 5rem 0rem;
+}
+
+.contactus_header .bg-heading-imag {
+  background-image: url("../../assets/contact.jpg");
+  background-position: 0px 33%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.contactus_header .main-contactus {
+  padding: 8rem 1rem;
+  position: relative;
+}
+.contactus_header .header-content {
+  position: relative;
+}
+
+.contactus_header h1 {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  text-align: center;
+  color: #ffffff;
+  margin-bottom: 20px;
+}
+
+.contactus_header p {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  text-align: center;
+  color: #ffffff;
+  padding: 0% 30% 0% 30%;
+}
+
+.contactus_header .elementor-background-overlay {
+  background-color: #000000;
+  opacity: 0.58;
+  transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  left: 0;
+  top: 0;
+}
+
+.getintouch {
+  padding: 2rem 0rem 8rem 0rem;
+}
+
+.getintouch .touch_icons {
+  width: 3rem;
+  height: 3rem;
+}
+
+.getintouch p {
+  font-family: "poppins", sans-serif;
+  font-weight: 600;
+  color: #7a7a7a;
+}
+
+.getintouch .box-con {
+  box-shadow: 0px 3px 15px 0px rgb(0 0 0 / 10%);
+  padding: 1rem;
+}
+
+.getintouch .get_heading h2 {
+  font-family: "poppins", sans-serif;
+  font-weight: 600;
+  color: #000000;
+  padding: 5px 0px 5px 0px;
+}
+
+.box-con h3 {
+  font-family: "poppins", sans-serif;
+  font-weight: 500;
+  color: #2e2d2d;
+  padding: 1rem 0rem;
+}
+.getintouch .get_heading p {
+  font-family: "poppins", sans-serif;
+  font-weight: 600;
+  color: #7a7a7a;
+  padding: 2% 26% 2% 26%;
+}
+.getintouch .get_heading .head_icons {
+  height: 3rem;
+  width: 3rem;
+  margin-bottom: 15px;
+}
+
+/* ----contact form---- */
+
+.contact-section .btn-sendmsg {
+  border-radius: 5px;
+  padding: 8px 20px;
+  color: #ffffff;
+  background-color: #ee2f30;
+  font-size: 16px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+}
+
+.contact-section .btn-sendmsg:focus {
+  box-shadow: none;
+}
+
+.contact-section .contact_img {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+}
+
+.contact-section .messg-box {
+  box-shadow: 0px 3px 15px 0px rgb(0 0 0 / 10%);
+  margin-bottom: 6rem;
+}
+.contact-section .contact-form {
+  padding: 40px 40px 80px 40px;
+}
+.contact-section .cubix-form {
+  margin: auto 0;
+}
+
+.contact-section .contact-form input,
+.contact-section .contact-form textarea {
+  border-radius: 0;
+  font-family: "poppins", sans-serif;
+  font-weight: 600;
+  margin-bottom: 2rem;
+}
+.contact-section .contact-form input[type="text"],
+.contact-section .contact-form input[type="email"] {
+  height: calc(2.5em + 0.75rem + 2px);
+  font-family: "poppins", sans-serif;
+  font-weight: 600;
+}
+
+.contact-form input:focus,
+.contact-formtextarea:focus {
+  box-shadow: none;
+}
+
+.cubix-form .thnkmsg {
+  font-size: 26px;
+  font-family: "Poppins";
+  font-weight: 600;
+  text-align: center;
+  color: #000;
+  padding-top: 30px;
+}

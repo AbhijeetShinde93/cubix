@@ -1,0 +1,115 @@
+.carrer_header {
+  padding: 5rem 0rem;
+}
+
+.carrer_header .bg-heading-imag {
+  background-image: url("../../assets/career.jpg");
+  background-position: 0px 33%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.carrer_header .main-carrer {
+  padding: 8rem 1rem;
+  position: relative;
+}
+.carrer_header .carrer_header-content {
+  position: relative;
+}
+
+.carrer_header h1 {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  text-align: center;
+  color: #ffffff;
+  margin-bottom: 20px;
+}
+
+.carrer_header p {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  text-align: center;
+  color: #ffffff;
+  padding: 0% 30% 0% 30%;
+}
+
+.carrer_header .elementor-background-overlay {
+  background-color: #000000;
+  opacity: 0.58;
+  transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  left: 0;
+  top: 0;
+}
+
+.diff-solution {
+  padding-bottom: 4rem;
+}
+
+.diff-solution p {
+  font-family: "poppins", sans-serif;
+  font-weight: 600;
+  color: #7a7a7a;
+  padding: 20px 10px 0px 0px;
+}
+
+.home_abt_img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+
+.diff-solution .left_sec {
+  padding: 30px;
+}
+
+.diff-solution .left_sec .page_subheading {
+  font-family: "poppins", sans-serif;
+  font-weight: 500;
+  color: #ee2f30;
+  font-size: 26px;
+  padding-top: 6px;
+  padding-left: 6px;
+}
+
+.diff-solution .left_sec h2,
+.carrer-comm h5 {
+  font-family: "poppins", sans-serif;
+  font-weight: 600;
+  color: #000000;
+}
+
+.carrer-comm {
+  padding: 2rem 0rem 6rem 0rem;
+}
+
+.diff-solution .left_sec p {
+  font-family: "poppins", sans-serif;
+  font-weight: 600;
+  color: #7a7a7a;
+  padding: 20px 10px 0px 0px;
+}
+
+.left_sec .page_icons {
+  font-size: 40px;
+  color: #ee2f30;
+  margin-right: 5px;
+}
+
+.carrer-comm .career_icons {
+  width: 4rem;
+  height: 4rem;
+}
+
+.carrer-comm p {
+  font-family: "poppins", sans-serif;
+  font-weight: 600;
+  color: #7a7a7a;
+}
+
+.carrer-comm .box-con {
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  padding: 1rem;
+}

@@ -1,0 +1,29 @@
+@media only screen and (min-device-width: 320px) and (-webkit-min-device-pixel-ratio: 2) {
+  .contactus_header .main-contactus {
+    padding: 3rem 1rem;
+  }
+  .contactus_header p {
+    padding: 0% 5% 0% 5%;
+  }
+  .getintouch .get_heading p {
+    padding: 2% 6% 2% 6%;
+  }
+  .getintouch .box-con {
+    margin-bottom: 2rem;
+  }
+}
+
+@media only screen and (min-device-width: 768px) and (-webkit-min-device-pixel-ratio: 2) {
+}
+
+/* // Large devices (desktops, 992px and up) */
+@media only screen and (min-device-width: 992px) and (-webkit-min-device-pixel-ratio: 2) {
+}
+
+/* // X-Large devices (large desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) and (-webkit-min-device-pixel-ratio: 2) {
+}
+
+/* // XX-Large devices (larger desktops, 1400px and up) */
+@media only screen and (min-width: 1400px) and (-webkit-min-device-pixel-ratio: 2) {
+}

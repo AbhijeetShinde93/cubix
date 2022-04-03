@@ -1,0 +1,172 @@
+.ourservices_header {
+  padding: 5rem 0rem;
+}
+
+.ourservices_header .bg-heading-imag {
+  background-image: url("../../assets/services_bg.jpg");
+  background-position: 0px 33%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.ourservices_header .main-ourservices {
+  padding: 8rem 1rem;
+  position: relative;
+}
+.ourservices_header .header-content {
+  position: relative;
+}
+
+.ourservices_header h1 {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  text-align: center;
+  color: #ffffff;
+  margin-bottom: 20px;
+}
+
+.ourservices_header p {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  text-align: center;
+  color: #ffffff;
+  padding: 0% 30% 0% 30%;
+}
+
+.ourservices_header .elementor-background-overlay {
+  background-color: #000000;
+  opacity: 0.58;
+  transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  left: 0;
+  top: 0;
+}
+
+.service_section .service_heading h2 {
+  font-family: "poppins", sans-serif;
+  font-weight: 600;
+  color: #000000;
+}
+
+.service_section .services_icons {
+  height: 3rem;
+  width: 3rem;
+  margin-bottom: 10px;
+}
+
+.service_section .image_size {
+  width: 100%;
+  height: auto;
+}
+
+.service-card {
+  border: none;
+}
+
+.service-card .card-body {
+  margin: -50% 5% 0% 5%;
+  background: #fff;
+}
+
+.service-card .card-title {
+  font-family: "poppins", sans-serif;
+  font-weight: 600;
+  color: #000000;
+  text-align: center;
+  width: 90%;
+  line-height: 1.95rem;
+}
+
+.service-card .card-text {
+  font-family: "poppins", sans-serif;
+  font-weight: 600;
+  color: #7a7a7a;
+  padding: 20px;
+}
+
+.service_section .two-section {
+  padding: 2rem 0rem 4rem 0rem;
+}
+
+.why_section .details {
+  background-color: #181b2a;
+}
+
+.why_section_img {
+  height: auto;
+  width: 100%;
+}
+
+.why_section .why_para {
+  font-size: 16px;
+  font-family: "poppins", sans-serif;
+  color: #ffffff;
+  width: 100%;
+  font-weight: 500;
+  padding-bottom: 20px;
+  padding: 10px 0px;
+}
+
+.why_section .why_sub-heading {
+  font-size: 24px;
+  margin-bottom: 0px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  color: #ffffff;
+  padding-bottom: 5px;
+}
+
+.why_section .left-side-why {
+  margin: auto 0;
+  padding: 60px 60px;
+}
+
+.service-bg-img {
+  background-image: url("../../assets/sevices-content.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 100%;
+}
+
+.contact-artical {
+  padding: 2rem 0rem 6rem 0rem;
+}
+
+.contact-artical h2 {
+  font-family: "poppins", sans-serif;
+  font-weight: 600;
+  color: #ffffff;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.contact-artical .btn-contact-call {
+  font-size: 16px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  background-color: #ee2f30;
+  color: #ffffff;
+  padding: 8px 30px;
+}
+
+.contact-artical-bg-img {
+  background-image: url("../../assets/career.jpg");
+  background-position: 0% 75%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 100px 0px 100px 0px;
+  position: relative;
+}
+.elementor-background-overlay {
+  background-color: #000000;
+  opacity: 0.55;
+  transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  left: 0;
+  top: 0;
+}
