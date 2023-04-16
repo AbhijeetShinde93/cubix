@@ -11,8 +11,10 @@ const OurService = () => {
           <div className="d-flex flex-column header-content">
             <h1>Our Services</h1>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua
+              Our medical billing services are focused on your bottom line. We
+              customize medical billing, medical coding and accounts receivables
+              as per your needs so that you can focus on delivering excellent
+              patient care.
             </p>
           </div>
         </div>
@@ -41,18 +43,23 @@ const OurService = () => {
                   alt="about_img"
                 />
                 <div className="card-body">
-                  <h4 className="card-title">Healthcare Solutions</h4>
+                  <h4 className="card-title">
+                    We bring solutions to make life easier for our customers
+                  </h4>
                   <p className="card-text">
-                    U.S SOLUTION works on competitive business environment
-                    module, Our Healthcare Specialist and Executives engage
-                    themselves with all potential customers through inbound and
-                    outbound communication using multiple channels. Businesses
-                    around the world rely on Innovative Technologies, we
-                    specialize in all-encompassing sales and customer
-                    acquisition process that strengthen customer relationships
-                    and promote revenue generation. We support the entire
-                    customer lifecycle, from lead generation to lead support,
-                    through both voice and non-voice customer interactions.
+                    We offer a complete insurance verification and revenue cycle
+                    management to meet the individualized needs of each
+                    practice. DocRCM experts is pleased to deliver the highest
+                    levels of quality, support, and follow-up; which translates
+                    into quicker reimbursement. We firmly believe in a
+                    ‘partnership approach’ with all our clients. Through our
+                    global delivery network and comprehensive service offerings,
+                    we deliver business value to our clients by combining
+                    operational excellence with in-depth industry knowledge.
+                    Nothing is more important to us than protecting the privacy
+                    and security of the data our client entrusts to us. We are
+                    vigilant in protecting them and maintaining a platform they
+                    can trust.
                   </p>
                 </div>
               </div>
@@ -69,17 +76,24 @@ const OurService = () => {
                 />
                 <div className="card-body">
                   <h4 className="card-title">
-                    Technology For Advanced Solutions
+                    We have the experience and expertise you need
                   </h4>
                   <p className="card-text">
-                    We empower our specialists with the latest technologies to
-                    safely and securely manage your customer’s information. This
-                    professional approach provides us with the best results in
-                    the business, also help you achieve and maintain a
-                    competitive advantage in your business. Through leveraging
-                    the tools available, we can increase your company’s
-                    productivity and have you enjoy higher operating capacity,
-                    also deliver a superior customer satisfaction experience.
+                    We offer a complete revenue cycle management and a strong
+                    back office fully equipped to meet the individualized needs
+                    of each practice. Ukela is pleased to deliver the highest
+                    levels of quality, support, and follow-up; which translates
+                    into quicker reimbursement turnarounds. We will match or
+                    beat our competitors while lowering costs and increasing
+                    revenue. At DocRCM experts, we firmly believe in a
+                    ‘partnership approach’ with all our clients. Through our
+                    global delivery network and comprehensive service offerings,
+                    we deliver business value to our clients by combining
+                    operational excellence with in-depth industry knowledge.
+                    Nothing is more important to us than protecting the privacy
+                    and security of the data our client entrusts to us. We are
+                    vigilant in protecting them and maintaining a platform they
+                    can trust.
                   </p>
                 </div>
               </div>
@@ -94,30 +108,33 @@ const OurService = () => {
             <div className="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12 d-flex flex-column left-side-why">
               <h2 className="why_heading pb-3">What do we do?</h2>
               <p className="why_para">
-                Every Business come across various challenges, we provide
-                customized solution to all you need. Right from Healthcare to
-                Insurance and Promotion thus providing your Business a solution
-                for the challenges and exceeding your business potential.
+                A Spectrum of Excellence in Healthcare Revenue Cycle Management
               </p>
               <p className="why_para">
-                We can be an addition to your existing team to help you operate
-                effectively and provide quality service to maintain the highest
-                level of customer satisfaction.
+                DocRCM experts provides a full range of revenue cycle services
+                including consulting, credentialing, medical coding, A/R and
+                denials management, and extended business office services. Our
+                nationwide clients include hospitals and clinics other
+                healthcare providers and investors. What makes DocRCM experts a
+                solid, reliable provider of RCM services is our exceptionally
+                strong team of healthcare industry experts who have confronted
+                virtually every RCM problem and devised innovative solutions to
+                solve them. Our custom methodology is significantly more
+                powerful than the regular one-size-fits-all arrangement. We have
+                made answers for many associations, huge and little, each with
+                their own specific intricacies. Trust Amromed to do the same for
+                you.
               </p>
               <p className="why_para">
-                We provide outsourcing solutions to a variety of businesses,
-                such as,Customer Acquisition, Services, Engagement and
-                Retention.
-              </p>
-              <p className="why_para">
-                Our highly trained and experienced resources have the potential
-                to communicate not only to convince the prospect costumer to
-                enroll/ buy our servicesbut also to keep them engaged and
-                interested in the services we have given them, resulting in the
-                significant downward graph of Customer Attrition. Through our
-                effective Customer Relation Management Tool,we manage to keep a
-                track on the Sales, Customer Satisfaction and Retention targets
-                along with ROI.
+                DocRCM experts has different workplaces the nation over, and our
+                global group empowers us to be exceptionally aggressive. Our
+                organization claimed conveyance community in India, staffed by
+                RCM specialists and gifted clinical charging veterans, permits
+                us to minimize expenses and keep away from holes in help while
+                scaling to address the issues of your developing business. Our
+                various workplaces the country over empower us to apply
+                specialists on location depending on the situation to address
+                your RCM challenges.
               </p>
             </div>
 

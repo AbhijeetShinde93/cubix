@@ -1,13 +1,18 @@
 import React, { useState } from "react";
 import "./Navigation.css";
 import { Navbar, Button, Nav } from "react-bootstrap";
+import { Link } from "react-router-dom";
 
 const Navigation = (props) => {
   return (
     <div>
       <Navbar expand="lg" fixed="top" className="navigation">
         <Navbar.Brand href="/" id="brand-logo">
-          Cubix Infotech
+          <img
+            src={process.env.PUBLIC_URL + "/icons/mainlogo.jpg"}
+            className="DOCLOgo"
+            alt="logo"
+          />
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
@@ -18,9 +23,11 @@ const Navigation = (props) => {
             <Nav.Link href="/ourservices">Services</Nav.Link>
             <Nav.Link href="/contactus">Contact</Nav.Link>
           </Nav>
-          <button type="button" className="btn btn-Enquiry">
-            ENQUIRY NOW
-          </button>
+          <Link to="contactus">
+            <button type="button" className="btn btn-Enquiry">
+              ENQUIRY NOW
+            </button>
+          </Link>
         </Navbar.Collapse>
       </Navbar>
     </div>

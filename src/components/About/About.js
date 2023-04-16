@@ -32,8 +32,9 @@ const About = () => {
           <div className="d-flex flex-column header-content">
             <h1>About Us</h1>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua
+              Our seamless virtual process reduces no-shows, increases
+              collections, optimizes clinical workflows, and allows you to focus
+              back on patient care.
             </p>
           </div>
         </div>
@@ -49,21 +50,22 @@ const About = () => {
                   <h6 className="page_subheading">About us</h6>
                 </div>
 
-                <h2>What makes Cubix solution different?</h2>
+                <h2>What makes Doc RCM Experts different?</h2>
                 <p>
-                  We Help our Clients achieve measurable results with the help
-                  of our highly skilled and dedicated work force. We have the
-                  best people onboard who are equipped with next-generation
-                  technology in order to consistently deliver superior results
-                  and strive to earn 100% customer satisfaction.
+                  Assured 98% first pass claim acceptance rate and 97% medical
+                  coding accuracy.
                 </p>
                 <p>
-                  We operate across all time zones and work in close association
-                  with our clients to deliver industry-leading. Our potential,
-                  proven methodologies and experience allow us to give that
-                  much-needed competitive edge to our clients, eventually
-                  enabling them to make their businesses more apprehensible,
-                  efficient & profitable.
+                  Consistent workflow to reduce AR backlogs and accelerate your
+                  revenue cycle.
+                </p>
+                <p>
+                  We equip you to scale up and streamline operations to handle
+                  value based reimbursement models.
+                </p>
+                <p>
+                  Technical and professional capabilities that minimize
+                  downtimes, delays and loss of productivity.
                 </p>
               </div>
             </div>
@@ -71,7 +73,10 @@ const About = () => {
               <div>
                 <img
                   className="home_abt_img"
-                  src={process.env.PUBLIC_URL + "/images/aboutus_page.jpg"}
+                  src={
+                    process.env.PUBLIC_URL +
+                    "/images/doctor-nurse-discussing-digital-tablet.png"
+                  }
                   alt="about_img"
                 />
               </div>
@@ -94,10 +99,12 @@ const About = () => {
                   <div className="d-flex flex-column">
                     <h3>Our Vision</h3>
                     <p className="mb-0">
-                      Our vision is to achieve great heights and recognition in
-                      the domain of ITES/ Business Process Outsourcing and
-                      captivating our client's desire to augment their Business
-                      to greatness.
+                      To build our presence as a recognized billing service that
+                      is superior in delivering a comprehensive end to end
+                      business process solution that specializes exclusively in
+                      the healthcare industry through the utilization of proven,
+                      advanced technologies with an organization which advocates
+                      teamwork and is unhindered by bureaucracy.
                     </p>
                   </div>
                 </div>
@@ -112,10 +119,13 @@ const About = () => {
                   <div className="d-flex flex-column">
                     <h3>Our Mission</h3>
                     <p className="mb-0">
-                      Our Mission is achieving excellence in the domain of ITES/
-                      Business Process Outsourcing and through our Skilled
-                      services and Positive results help our client draw
-                      measurable results.
+                      To provide superior quality healthcare services that
+                      PHYSICIANS AND THERAPIST recommends to family and friends,
+                      EMPLOYEES are proud of, and INVESTORS seek for long-term
+                      returns.
+                      <br />
+                      Integrity, Accountability, Commitment, Quality, Teamwork
+                      and Simplicity.
                     </p>
                   </div>
                 </div>
@@ -135,7 +145,8 @@ const About = () => {
                     <span className="counter">6000</span>
                     <span>+</span>
                   </div>
-                  <p>Work Completed</p>
+                  <p>Complete task per day</p>
+                  <br />
                 </div>
               </div>
               <div className="four col-md-3">
@@ -144,16 +155,16 @@ const About = () => {
                     <span className="counter">550</span>
                     <span>+</span>
                   </div>
-                  <p>Expert Workers</p>
+                  <p>Providers helped in over many specialties</p>
                 </div>
               </div>
               <div className="four col-md-3">
                 <div className="counter-box">
                   <div className="d-flex flex-row justify-content-center">
-                    <span className="counter">21000</span>
+                    <span className="counter">700</span>
                     <span>+</span>
                   </div>
-                  <p>Happy Customers</p>
+                  <p>Remote Nurses & Billers Available</p>
                 </div>
               </div>
             </div>
@@ -167,25 +178,36 @@ const About = () => {
             <div className="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
               <img
                 className="cubix-solution_img"
-                src={process.env.PUBLIC_URL + "/images/why-c.jpg"}
+                src={process.env.PUBLIC_URL + "/images/three.jpg"}
                 alt="about_img"
               />
             </div>
             <div className="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12 my-auto">
               <div className="cubix-sol-detail">
-                <h2 className="abt_heading">Why Cubix Solution?</h2>
+                <h2 className="abt_heading">Why Doc RCM Experts?</h2>
                 <p className="abt_para">
-                  Cubix Solution BPO is a premier business services company that
-                  is focused on building innovative solutions that create value
-                  for businesses and consumers. Our solutions are built around
-                  opportunities, innovation and Client satisfaction. Through our
-                  solutions we ensure that we are able to provide unmatched,
-                  superior resolution to specific customer problems and help our
-                  clients exceed their customers’ expectations within a highly
-                  collaborative, secure and compliant environment. We have a
-                  team of experienced professionals and a skilled workforce that
-                  helps companies operate efficiently, achieve their business
-                  goals, and increase profitability.
+                  DocRCM experts is a pioneer in providing leading and
+                  innovative healthcare solutions to physicians across the
+                  country. Started in 2012 for physicians serving the billing
+                  needs AR follow-up / Verification of Benefits / Credentialing
+                  / Payment posting/coding / Charge entry. The key to our growth
+                  has always been the fact that we are a relationship-focused
+                  company that strongly believes that “We get paid more only
+                  when you do” With 14 years of experience and a team of
+                  exceptional and highly trained employees, we provide
+                  professional billing services to all types of Specialty and
+                  are equipped with everything you need to build a successful
+                  practice and maximize your revenue. Our specially trained team
+                  in all verticals of billing, Certified Billers and Coders is
+                  outfitted to handle all aspects of the medical billing process
+                  from start to payment! Our office concentrates on a wide range
+                  of physician specialties including dental, plastic surgery,
+                  anesthesiology, emergency medicine, Ob/Gyn, Orthopedics, and
+                  Urology amongst many others. Our doctors save an average of
+                  $25,000/year per doctor in billing overhead with the added
+                  benefit of increasing their cash flow. Since every practice is
+                  unique, we customize our services to meet your individual
+                  practice needs and requirements.
                 </p>
               </div>
             </div>
@@ -194,24 +216,21 @@ const About = () => {
       </section>
 
       {/* our team */}
-      <section className="team_sec">
+      {/* <section className="team_sec">
         <div className="container">
           <div className="row">
             <div className="col-md-12 col-12">
               <h2 className="team_heading">Our Team</h2>
               <p className="team_para">
                 Our management team consists of experienced professionals from
-                leading companies and deep domain expertise in information
-                technology and business process outsourcing space. We have data
-                center grade communication systems for voice and data from
-                multiple service providers, power back up systems include in
-                house diesel generator and UPS systems. We follow comprehensive
-                information security and data back-up processes and systems.
-                Guiding U.S Solution growth is a highly experienced team. The
-                philosophy in business is that employees must focus on making
-                each and every customer relationship a success. This team
-                adheres to this philosophy day-in and day-out and sets the
-                standard for the rest of the company.
+                leading companies and deep domain expertise in medical billing
+                and information technology. We follow comprehensive information
+                security and data back-up processes and systems. Guiding Doc RCM
+                Experts growth is a highly experienced team. The philosophy in
+                business is that employees must focus on making each and every
+                provider relationship a success. This team adheres to this
+                philosophy day-in and day-out and sets the standard for the rest
+                of the company.
               </p>
             </div>
           </div>
@@ -220,58 +239,61 @@ const About = () => {
             <div className="col-lg-3 col-md-6 col-12 mt-4 pt-2">
               <div className="team text-center rounded p-3 py-4">
                 <img
+                  src={process.env.PUBLIC_URL + "/images/team/mehboob.png"}
+                  class="img-fluid avatar avatar-medium shadow rounded-pill"
+                  alt="Mehboob Ali Shaikh"
+                />
+                <div className="content mt-3">
+                  <h4 className="title mb-0">Mehboob Ali Shaikh (BRIAN) </h4>
+                  <small className="text-muted">Founder</small>
+                </div>
+              </div>
+            </div>
+            <div className="col-lg-3 col-md-6 col-12 mt-4 pt-2">
+              <div className="team text-center rounded p-3 py-4">
+                <img
+                  src={process.env.PUBLIC_URL + "/images/team/gulam.png"}
+                  class="img-fluid avatar avatar-medium shadow rounded-pill"
+                  alt="Gulam Sarvar Ajmeri"
+                />
+                <div className="content mt-3">
+                  <h4 className="title mb-0">
+                    Gulam Sarvar Ajmeri <br />
+                  </h4>
+                  <small className="text-muted">Founder</small>
+                </div>
+              </div>
+            </div>
+            <div className="col-lg-3 col-md-6 col-12 mt-4 pt-2">
+              <div className="team text-center rounded p-3 py-4">
+                <img
                   src="https://bootdey.com/img/Content/avatar/avatar7.png"
                   className="img-fluid avatar avatar-medium shadow rounded-pill"
-                  alt=""
+                  alt="Labib Hayat"
                 />
                 <div className="content mt-3">
-                  <h4 className="title mb-0">Lisa Martin</h4>
-                  <small className="text-muted">Founder</small>
+                  <h4 className="title mb-0">Labib Hayat </h4>
+                  <small className="text-muted">Manager</small>
                 </div>
               </div>
             </div>
-            <div className="col-lg-3 col-md-6 col-12 mt-4 pt-2">
-              <div className="team text-center rounded p-3 py-4">
-                <img
-                  src="https://bootdey.com/img/Content/avatar/avatar8.png"
-                  class="img-fluid avatar avatar-medium shadow rounded-pill"
-                  alt=""
-                />
-                <div className="content mt-3">
-                  <h4 className="title mb-0">Lisa Martin</h4>
-                  <small className="text-muted">Founder</small>
-                </div>
-              </div>
-            </div>
-            <div className="col-lg-3 col-md-6 col-12 mt-4 pt-2">
-              <div className="team text-center rounded p-3 py-4">
-                <img
-                  src="https://bootdey.com/img/Content/avatar/avatar2.png"
-                  class="img-fluid avatar avatar-medium shadow rounded-pill"
-                  alt=""
-                />
-                <div className="content mt-3">
-                  <h4 className="title mb-0">Lisa Martin</h4>
-                  <small className="text-muted">Founder</small>
-                </div>
-              </div>
-            </div>
+
             <div className="col-lg-3 col-md-6 col-12 mt-4 pt-2">
               <div className="team text-center rounded p-3 py-4">
                 <img
                   src="https://bootdey.com/img/Content/avatar/avatar6.png"
                   class="img-fluid avatar avatar-medium shadow rounded-pill"
-                  alt=""
+                  alt="Marzanul Haque"
                 />
                 <div className="content mt-3">
-                  <h4 className="title mb-0">Lisa Martin</h4>
-                  <small className="text-muted">Founder</small>
+                  <h4 className="title mb-0">Marzanul Haque</h4>
+                  <small className="text-muted">Manager</small>
                 </div>
               </div>
             </div>
           </div>
         </div>
-      </section>
+      </section> */}
     </div>
   );
 };

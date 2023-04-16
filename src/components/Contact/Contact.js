@@ -50,8 +50,8 @@ const Contact = () => {
           <div className="d-flex flex-column header-content">
             <h1>Contact Us</h1>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua
+              Have any questions? Reach out to us from our contact form and we
+              will get back to you shortly.
             </p>
           </div>
         </div>
@@ -68,8 +68,9 @@ const Contact = () => {
               />
               <h2>Get In Touch</h2>
               <p className="text-center">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua
+                Please feel welcome to contact our Team with any general or
+                billing enquiry. Our Team will receive or return any urgent
+                calls.
               </p>
             </div>
           </div>
@@ -84,8 +85,8 @@ const Contact = () => {
                 />
                 <h3 className="mt-2">Office Location</h3>
                 <p>
-                  Lorem ipsum dolor sit amet, consectet adipiscing elit, sed do
-                  eiusmod tempor incididunt ut labore et dolore
+                  19214 CANNON HILLS LN RICHMOND,
+                  <br /> TX 77407 USA
                 </p>
               </div>
             </div>
@@ -97,10 +98,7 @@ const Contact = () => {
                   className="touch_icons"
                 />
                 <h3 className="mt-2">Give us a call</h3>
-                <p>
-                  Lorem ipsum dolor sit amet, consectet adipiscing elit, sed do
-                  eiusmod tempor incididunt ut labore et dolore
-                </p>
+                <p>Call Us : (281)786-0408</p>
               </div>
             </div>
             <div className="col-lg-4 col-md-4 col-sm-12 col-12">
@@ -110,11 +108,8 @@ const Contact = () => {
                   alt="icons"
                   className="touch_icons"
                 />
-                <h3 className="mt-2">Send us a Message</h3>
-                <p>
-                  Lorem ipsum dolor sit amet, consectet adipiscing elit, sed do
-                  eiusmod tempor incididunt ut labore et dolore
-                </p>
+                <h3 className="mt-2">Email Address</h3>
+                <p>info@docrcmexperts.com</p>
               </div>
             </div>
           </div>
@@ -175,8 +170,7 @@ const Contact = () => {
                     placeholder="Your message"
                     onChange={(e) => setMessage(e.target.value)}
                     value={message}
-                    required
-                  ></textarea>
+                    required></textarea>
                 </div>
                 <button type="submit" className="btn btn-sendmsg">
                   Send Message

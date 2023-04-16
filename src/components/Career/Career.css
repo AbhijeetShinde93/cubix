@@ -30,7 +30,7 @@
   font-weight: 600;
   text-align: center;
   color: #ffffff;
-  padding: 0% 30% 0% 30%;
+  padding: 0% 20% 0% 20%;
 }
 
 .carrer_header .elementor-background-overlay {
@@ -81,15 +81,19 @@
   color: #000000;
 }
 
+.carrer-comm h5 {
+  width: 80%;
+  margin: 1rem auto;
+}
 .carrer-comm {
   padding: 2rem 0rem 6rem 0rem;
 }
 
 .diff-solution .left_sec p {
   font-family: "poppins", sans-serif;
-  font-weight: 600;
+  font-weight: 500;
   color: #7a7a7a;
-  padding: 20px 10px 0px 0px;
+  padding: 10px 10px 0px 0px;
 }
 
 .left_sec .page_icons {
@@ -105,11 +109,12 @@
 
 .carrer-comm p {
   font-family: "poppins", sans-serif;
-  font-weight: 600;
+  font-weight: 500;
   color: #7a7a7a;
 }
 
 .carrer-comm .box-con {
   box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
   padding: 1rem;
+  min-height: 328px;
 }

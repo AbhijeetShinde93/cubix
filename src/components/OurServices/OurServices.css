@@ -30,7 +30,7 @@
   font-weight: 600;
   text-align: center;
   color: #ffffff;
-  padding: 0% 30% 0% 30%;
+  padding: 0% 20% 0% 20%;
 }
 
 .ourservices_header .elementor-background-overlay {
@@ -75,14 +75,15 @@
   font-weight: 600;
   color: #000000;
   text-align: center;
-  width: 90%;
+  /* width: 90%; */
   line-height: 1.95rem;
 }
 
 .service-card .card-text {
   font-family: "poppins", sans-serif;
-  font-weight: 600;
+  font-weight: 500;
   color: #7a7a7a;
+  text-align: justify;
   padding: 20px;
 }
 
@@ -107,6 +108,7 @@
   font-weight: 500;
   padding-bottom: 20px;
   padding: 10px 0px;
+  text-align: justify;
 }
 
 .why_section .why_sub-heading {

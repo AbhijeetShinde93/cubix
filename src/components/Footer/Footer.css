@@ -6,7 +6,7 @@
   width: 60%;
   margin: 0 auto;
   font-family: "poppins", sans-serif;
-  font-weight: 600;
+  font-weight: 400;
 }
 
 footer {
@@ -15,21 +15,22 @@ footer {
   color: #ccc;
 }
 .footer {
-  display: grid;
+  /* display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   justify-content: center;
-  gap: 2rem;
+  gap: 2rem; */
 }
 
 .footer_about h3,
-.footer_main h3 {
+.footer_main h3,
+.footer_right h3 {
   font-weight: 600;
   color: #ee2f30;
   margin-bottom: 1rem;
   font-family: "poppins", sans-serif;
 }
 .footer_about p {
-  font-size: 0.85rem;
+  font-size: 14px;
   font-family: "poppins", sans-serif;
 }
 
@@ -37,7 +38,7 @@ footer {
   /*   background:orange; */
   display: flex;
   flex-direction: column;
-  align-items: center;
+  /* align-items: center; */
   justify-content: center;
 }
 .footer_main ul {
@@ -47,7 +48,7 @@ footer {
 
 .footer_right .footer_links {
   /*   background:gold; */
-  padding: 1.2rem;
+  padding: 1.2rem 10px;
   display: flex;
   gap: 10px;
 }

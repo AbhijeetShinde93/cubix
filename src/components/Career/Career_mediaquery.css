@@ -24,6 +24,10 @@
 
 /* // Large devices (desktops, 992px and up) */
 @media only screen and (min-device-width: 992px) and (-webkit-min-device-pixel-ratio: 2) {
+  .carrer-comm h5 {
+    width: 100%;
+    margin: 1rem auto;
+  }
 }
 
 /* // X-Large devices (large desktops, 1200px and up) */
