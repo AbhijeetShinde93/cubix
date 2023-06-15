@@ -35,11 +35,12 @@ const Home = () => {
             <div className="banner_box">
               <div className="row">
                 <div className="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
-                  <h1>
+                  <h1>DOC RCM EXPERTS A MED RELIANCE LLC COMPANY</h1>
+                  <h3>
                     We Provide All Aspects Of Dental and Medical Insurance
                     Verification and Billing Services for Doctors and HealthCare
                     Providers.
-                  </h1>
+                  </h3>
                   <p>
                     Offering innovative solutions, specializing in Dental and
                     Medical services for treatement of healthcare infrastucture.

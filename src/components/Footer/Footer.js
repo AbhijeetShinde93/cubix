@@ -86,7 +86,8 @@ const Footer = () => {
           </div>
         </div>
         <div class="copyright">
-          Copyright © 2021 All Rights Reserved by Doc RCM experts.
+          Copyright © 2021 All Rights Reserved by Doc RCM experts A MED RELIANCE
+          LLC COMPANY.
         </div>
       </footer>
     </div>
