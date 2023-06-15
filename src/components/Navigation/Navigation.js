@@ -13,6 +13,7 @@ const Navigation = (props) => {
             className="DOCLOgo"
             alt="logo"
           />
+              <h1>Med relience llc company</h1>
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
